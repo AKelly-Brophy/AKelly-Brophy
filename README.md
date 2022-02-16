@@ -6,6 +6,12 @@
   - 🔗 LinkedIn: https://www.linkedin.com/in/aisling-kelly-brophy-6b0927201/
   - 🖼 Portfolio: TBD
 
+**What you will find here**
+
+- Games worked
+- Web applications completed
+- Interactive applications
+
 <!---
 AKelly-Brophy/AKelly-Brophy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
