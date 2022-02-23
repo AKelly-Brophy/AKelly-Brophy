@@ -8,7 +8,7 @@
 
 **What you will find here**
 
-- Games worked
+- Games developed
 - Web applications completed
 - Interactive applications
 
