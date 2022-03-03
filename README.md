@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aisling Kelly-Brophy!
 - 👀 I’m interested in game design and development, web development, and application design.
-- 🌱 I’m currently learning Unity, C#, Blender, Python, and React.
+- 🌱 I’m currently learning Unity, C#, React, Python, and Blender.
 - 📫 How to reach me:
   - 📧 Email: a.kellybrophy@gmail.com
   - 🔗 LinkedIn: https://www.linkedin.com/in/aisling-kelly-brophy-6b0927201/
