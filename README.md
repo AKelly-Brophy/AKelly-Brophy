@@ -8,8 +8,8 @@
 
 **What you will find here**
 
-- Games developed
-- Web applications completed
+- Games
+- Web applications
 - Interactive applications
 
 <!---
