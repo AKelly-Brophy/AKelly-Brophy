@@ -4,6 +4,7 @@
 - 📫 How to reach me:
   - 📧 Email: a.kellybrophy@gmail.com
   - 🔗 LinkedIn: https://www.linkedin.com/in/aisling-kelly-brophy-6b0927201/
+  - 📺 Vimeo: https://vimeo.com/user167885890
   - 🖼 Portfolio: TBD
 
 **What you will find here**
