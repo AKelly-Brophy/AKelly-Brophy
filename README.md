@@ -11,7 +11,7 @@
 
 - Games
 - Web applications
-- Interactive applications
+- Jupyter Notebooks
 
 <!---
 AKelly-Brophy/AKelly-Brophy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
