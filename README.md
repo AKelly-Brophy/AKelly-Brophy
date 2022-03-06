@@ -13,7 +13,7 @@
 - Web applications
 - Jupyter Notebooks
 
-**My Repositories**
+**My Repositories (more to be added)**
 
 https://github.com/AKelly-Brophy/AI-CA1-RecommenderSystem
 
