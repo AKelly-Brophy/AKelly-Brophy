@@ -7,12 +7,6 @@
   - 📺 Vimeo: https://vimeo.com/user167885890
   - 🖼 Portfolio: TBD
 
-**What you will find here**
-
-- Games
-- Web applications
-- Jupyter Notebooks
-
 **My Repositories (more to be added)**
 
 https://github.com/AKelly-Brophy/AI-CA1-RecommenderSystem
