@@ -14,6 +14,7 @@
 - Jupyter Notebooks
 
 **My Repositories**
+
 https://github.com/AKelly-Brophy/AI-CA1-RecommenderSystem
 
 https://github.com/AKelly-Brophy/AI-CA2--Machine-Learning-Example
