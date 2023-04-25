@@ -1,13 +1,16 @@
 - 👋 Hi, I’m Aisling Kelly-Brophy!
-- 👀 I’m interested in game design and development, web development, and application design.
-- 🌱 I’m currently learning Unity, C#, React, Python, and Blender.
+- 👀 I’m interested in game design and development, web development, and 3D design.
+- 🏢 I am currently employed as a UI Technical Artist at DIGIT, a Scopely Studio.
+- 🌱 Practicing Unity, C#, and sharpening my game dev skills.
+- 🐺 Personal project: TruthSeeker, 3D platformer game
+
 - 📫 How to reach me:
   - 📧 Email: a.kellybrophy@gmail.com
   - 🔗 LinkedIn: https://www.linkedin.com/in/aisling-kelly-brophy-6b0927201/
   - 📺 Vimeo: https://vimeo.com/user167885890
   - 🖼 Portfolio: TBD
 
-**My Repositories (more to be added)**
+**My Main Repositories (more to be added)**
 
 https://github.com/AKelly-Brophy/AI-CA1-RecommenderSystem
 
