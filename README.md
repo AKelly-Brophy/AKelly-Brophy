@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Aisling Kelly-Brophy!
-- 👀 I’m interested in game design and development, web development, and 3D design.
-- 🏢 I am currently employed as a UI Technical Artist at DIGIT, a Scopely Studio.
-- 🌱 Practicing Unity, C#, and sharpening my game dev skills.
-- 🐺 Personal project: TruthSeeker, 3D platformer game
+- 👀 I’m interested in game design and development, UI/UX, web development, and VR technologies.
+- 🏢 I have worked at DIGIT, a Scopely Studio, for over 2 years, and am searching for a new job where I can utilise my skills.
+- 🌱 Working on sharpening my web development (HTML/CSS/JavaScript), C#, and UI/UX skills.
 
 - 📫 How to reach me:
   - 📧 Email: a.kellybrophy@gmail.com
