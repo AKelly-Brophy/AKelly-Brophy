@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aisling Kelly-Brophy!
 - 👀 I’m interested in game design and development, UI/UX, web development, and VR technologies.
-- 🏢 I have worked at DIGIT, a Scopely Studio, for over 2 years, and am searching for a new job where I can utilise my skills.
+- 🏢 I have worked at DIGIT, a Scopely Studio, for over 2 years, and am now working as a data visualisation engineer with Carne Group.
 - 🌱 Working on sharpening my web development (HTML/CSS/JavaScript), C#, and UI/UX skills.
 
 - 📫 How to reach me:
